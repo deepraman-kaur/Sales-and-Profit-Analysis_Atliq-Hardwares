@@ -1,5 +1,11 @@
 📊 AtliQ Hardware – Sales & Profit Insights Dashboards
 
+### 📊 Dashboards
+
+- [Sales Insights](https://public.tableau.com/app/profile/ramandeep.kaur8069/viz/SalesInsightsforAtliqHardware_17492135999870/Dashboard1)
+- [Profit Insights](https://public.tableau.com/app/profile/ramandeep.kaur8069/viz/ProfitInsightsforAtliqHardware/ProfitAnalysis-Atliq?publish=yes)
+
+
 🧾 Overview
 This repository showcases two interactive Tableau dashboards developed to analyze and visualize sales and profit data for AtliQ Hardware, a leading computer hardware supplier in India. These dashboards provide comprehensive insights to aid in strategic decision-making and performance optimization.
 
